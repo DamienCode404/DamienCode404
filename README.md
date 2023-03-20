@@ -1,3 +1,5 @@
+<div align="center">
+  
 # About Me:
 Student and aspiring software developer. I enjoy working on a variety of projects, including school assignments and personal programming projects. My areas of interest include Python programming, web development with Django, and data analysis with R. Check out my repositories to see what I've been working on!
 
@@ -15,5 +17,4 @@ Student and aspiring software developer. I enjoy working on a variety of project
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DamienCode404&icon=0&color=1)](https://visitcount.itsvg.in)
-
-
+</div>
