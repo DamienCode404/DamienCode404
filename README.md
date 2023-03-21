@@ -11,10 +11,6 @@ Student and aspiring software developer. I enjoy working on a variety of project
 ![](https://github-readme-stats.vercel.app/api?username=DamienCode404&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DamienCode404&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DamienCode404&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### Dev Meme
-<img src="https://media.makeameme.org/created/me-when-the-5ec15eb32d.jpg" width="250px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=DamienCode404&icon=0&color=1)](https://visitcount.itsvg.in)
 </div>
