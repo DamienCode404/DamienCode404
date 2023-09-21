@@ -2,7 +2,7 @@
   
 ## About Me
 
-I am a Master's student in Bioinformatics, passionate about the intersection of biology and computer science. My goal is to combine my knowledge of biology with my development skills to contribute to scientific research or participate in the software development of innovative companies.
+I am a Master's student in Bioinformatics, passionate about biology and computer science. My goal is to participate in the software development of innovative companies.
 
 Thank you for visiting my GitHub profile, and feel free to explore my projects !
 
